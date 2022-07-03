@@ -1,0 +1,3 @@
+C:/Users/AS/CLionProjects/WildTrigonometry/cmake-build-debug/CMakeFiles/WildTrigonometry.dir
+C:/Users/AS/CLionProjects/WildTrigonometry/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AS/CLionProjects/WildTrigonometry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
